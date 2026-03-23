@@ -20,5 +20,5 @@
 ---
 
 ## 📫 Contact
-- LinkedIn: (add your link later)
-- Email: (your email)
+- LinkedIn: linkedin.com/in/christopherojeda1
+- Email: christopher.oj1210@gmail.com
