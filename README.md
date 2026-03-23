@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Christopher 👋
 
-<!--
-**christopher-ojeda/christopher-ojeda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Senior @ Florida International University  
+💻 Interested in Software Engineering, AI, and Systems  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- Languages: C, Python, Java, SQL
+- Tools: Git, Linux, PostgreSQL, CLion
+- Concepts: Algorithms, Operating Systems, Networking
+
+---
+
+## 🚀 Projects
+- CPU Scheduler Simulator (C, OS concepts)
+- Multi-threaded Pipeline (C, concurrency)
+- Expense Tracker (Java)
+
+---
+
+## 📫 Contact
+- LinkedIn: (add your link later)
+- Email: (your email)
