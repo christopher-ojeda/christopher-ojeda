@@ -16,6 +16,7 @@
 - CPU Scheduler Simulator (C, OS concepts)
 - Multi-threaded Pipeline (C, concurrency)
 - Expense Tracker (Java)
+- [Bounded Buffer Pipeline](https://github.com/christopher-ojeda/bounded-buffer-pipeline) - Multithreaded producer-consumer system in C using pthreads and semaphores
 
 ---
 
